@@ -1,0 +1,12 @@
+{
+  "name": "photobooth-tools",
+  "owner": { "name": "mrzick70-coder" },
+  "description": "Bộ công cụ lập kế hoạch cải tạo photobooth / studio nhỏ",
+  "plugins": [
+    {
+      "name": "photobooth",
+      "source": "./plugins/photobooth",
+      "description": "Checklist hạng mục, thiết kế theo phong cách, dự toán vừa ngân sách (script + Excel) và sub agent khảo giá"
+    }
+  ]
+}
