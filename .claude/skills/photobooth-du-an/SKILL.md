@@ -22,7 +22,7 @@ Dùng skill `interior-design-expert` (nếu có) để thiết kế theo phong c
 **Mốc duyệt 1:** tóm tắt concept cho người dùng trong 5–7 dòng và chờ đồng ý trước khi sang bước 3. Nếu người dùng muốn sửa thì chỉ sửa phần họ nêu.
 
 ## Bước 3: Danh sách vật tư
-Sao chép `.claude/skills/du-toan-ngan-sach/mau-hang-muc.json` sang `du-an/<ten>/hang-muc.json` rồi sửa theo thiết kế: khối lượng tính từ kích thước thật, `uu_tien` theo mức độ lên ảnh, `bat_buoc`, `cho_phep_nb`. Ưu tiên dùng lại các `ma` đã có trong `bang-gia.csv`.
+Sao chép `mau-hang-muc.json` trong thư mục skill `du-toan-ngan-sach` sang `du-an/<ten>/hang-muc.json` rồi sửa theo thiết kế: khối lượng tính từ kích thước thật, `uu_tien` theo mức độ lên ảnh, `bat_buoc`, `cho_phep_nb`. Ưu tiên dùng lại các `ma` đã có trong `du-an/bang-gia.csv` (nếu chưa có file này thì xem `bang-gia-mau.csv` của skill `du-toan-ngan-sach`).
 
 ## Bước 4: Dự toán
 Làm theo skill `du-toan-ngan-sach`: chạy script và xử lý mã thoát (thiếu giá thì gọi `khao-gia` chỉ cho các mã thiếu; vượt ngân sách thì tối đa 2 vòng đề xuất cắt/thay).

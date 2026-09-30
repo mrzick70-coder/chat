@@ -8,9 +8,12 @@ description: Tính dự toán cải tạo theo ngân sách bằng script (không
 Mọi phép cộng và kiểm tra ngân sách đều do script làm. Không tự tính tay và không đọc file Excel (tốn token); chỉ đọc phần tóm tắt script in ra.
 
 ## Tệp
-- `bang-gia.csv`: bảng giá dùng chung, gồm 3 mức giá, khu vực, ngày cập nhật và nguồn. Sub agent `khao-gia` bổ sung giá vào đây.
-- `mau-hang-muc.json`: mẫu đầu vào (photobooth 3×6m). Sao chép file này rồi sửa.
-- `scripts/du_toan.py`: script tính.
+Các file dưới đây nằm trong **thư mục của skill này** (đường dẫn thật được báo khi skill được nạp):
+- `bang-gia-mau.csv`: bảng giá mẫu, gồm 3 mức giá, khu vực, ngày cập nhật và nguồn
+- `mau-hang-muc.json`: mẫu đầu vào (photobooth 3×6m). Sao chép file này rồi sửa
+- `scripts/du_toan.py`: script tính
+
+Bảng giá dùng thật của repo là `du-an/bang-gia.csv`. Lần chạy đầu, script tự chép nó từ `bang-gia-mau.csv`. Sub agent `khao-gia` bổ sung giá vào file này, nên mỗi repo có bảng giá riêng và giá không mất khi cập nhật skill.
 
 ## Định dạng hang-muc.json
 Mỗi hạng mục có các trường:
@@ -23,7 +26,7 @@ Mỗi hạng mục có các trường:
 
 ## Chạy
 ```bash
-python3 .claude/skills/du-toan-ngan-sach/scripts/du_toan.py du-an/<ten-du-an>
+python3 <thư-mục-skill>/scripts/du_toan.py du-an/<ten-du-an>
 ```
 (Cần `openpyxl`; nếu thiếu thì chạy `pip install openpyxl`.)
 

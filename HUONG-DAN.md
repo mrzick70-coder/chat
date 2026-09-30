@@ -45,7 +45,17 @@ Quy trình:
 - **Model của sub agent**: trong `.claude/agents/khao-gia.md`, dòng `model: sonnet`. Có thể đổi sang `haiku` để rẻ hơn, đổi lại kết quả tra giá kém kỹ hơn.
 - **Hạn giá cũ**: biến `HAN_GIA_NGAY` trong `scripts/du_toan.py`.
 - **Dùng cho dự án khác** (quán cà phê, tiệm nail…): skill `du-toan-ngan-sach` và agent `khao-gia` dùng chung được. Chỉ cần viết thêm một skill checklist cho loại hình đó.
-- **Muốn dùng ở mọi repo**: chép `.claude/skills/*` và `.claude/agents/*` vào `~/.claude/` trên máy của bạn.
+- **Muốn dùng ở repo khác**: xem mục "Dùng cho repo khác" bên dưới.
+
+## Dùng cho repo khác
+
+Bảng giá dùng thật nằm trong thư mục dự án (`du-an/bang-gia.csv`), không nằm trong skill. Lần đầu chạy, script tự tạo file này từ `bang-gia-mau.csv`. Nhờ vậy mỗi repo có bảng giá riêng, và bộ công cụ chạy được ở bất kỳ đâu.
+
+| Cách | Làm gì | Hợp với |
+|---|---|---|
+| 1. Cài cho cá nhân | `cp -r .claude/skills/* ~/.claude/skills/` và `cp .claude/agents/*.md ~/.claude/agents/` | Claude Code **trên máy**: một lần cài, mọi repo trên máy đều dùng được |
+| 2. Chép vào repo | Chép thư mục `.claude/skills/` và `.claude/agents/` sang repo mới rồi commit | Claude Code **trên web** (mỗi phiên là máy mới, không có `~/.claude`), hoặc khi cần chia sẻ cho người khác cùng repo |
+| 3. Đóng gói plugin | Đưa bộ công cụ thành một plugin trong một repo riêng, các repo khác chỉ cần khai báo để cài | Dùng ở **nhiều repo** mà muốn sửa một chỗ là tất cả cùng cập nhật |
 
 ## Lưu ý từ lần khảo giá đầu (mặt bằng 3×6m, 50tr)
 Nếu làm **đủ mọi hạng mục ở mức rẻ nhất**, tổng vẫn khoảng **60tr** (gồm 10% dự phòng). Ba khoản lớn nhất là vách ngăn cùng cửa (~9,7tr), điều hòa (7,5tr) và điện (5,5tr). Muốn vừa 50tr phải cắt phạm vi: thay cửa bằng rèm, bỏ ghế lười, bỏ quầy, và chỉ cán nền khi thật cần. File `mau-hang-muc.json` đã đặt sẵn các mục này là tùy chọn. Chạy thử với file mẫu cho kết quả ~49,9tr, ĐẠT.

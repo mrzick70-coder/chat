@@ -4,12 +4,14 @@ Cách dùng:
     python3 du_toan.py <thu-muc-du-an>
 
 Đầu vào:  <thu-muc-du-an>/hang-muc.json   (do bước thiết kế tạo ra)
-          ../bang-gia.csv                  (bảng giá dùng chung, cạnh thư mục scripts)
+          <thu-muc-du-an>/../bang-gia.csv  (bảng giá dùng chung của repo; lần đầu tự
+                                            chép từ bang-gia-mau.csv của skill)
 Đầu ra:   <thu-muc-du-an>/du-toan.xlsx     + bản tóm tắt ngắn in ra màn hình
 
 Mã thoát: 0 = đạt ngân sách · 1 = vượt ngân sách · 2 = thiếu giá (in danh sách mã cần khảo giá)
 """
 import csv
+import shutil
 import json
 import sys
 from datetime import date
@@ -20,12 +22,15 @@ from openpyxl.formatting.rule import FormulaRule
 from openpyxl.styles import Alignment, Border, Font, PatternFill, Side
 from openpyxl.worksheet.datavalidation import DataValidation
 
-BANG_GIA = Path(__file__).resolve().parent.parent / "bang-gia.csv"
+GIA_MAU = Path(__file__).resolve().parent.parent / "bang-gia-mau.csv"
 HAN_GIA_NGAY = 120  # giá cũ hơn số ngày này thì cảnh báo nên khảo lại
 
 
-def doc_bang_gia():
-    with open(BANG_GIA, encoding="utf-8") as f:
+def doc_bang_gia(bang_gia):
+    if not bang_gia.exists():
+        shutil.copy(GIA_MAU, bang_gia)
+        print(f"Đã tạo {bang_gia} từ bảng giá mẫu")
+    with open(bang_gia, encoding="utf-8") as f:
         return {r["ma"]: r for r in csv.DictReader(f)}
 
 
@@ -137,7 +142,7 @@ def main():
     duan = json.loads((thu_muc / "hang-muc.json").read_text(encoding="utf-8"))
     items = duan["hang_muc"]
     ngan_sach, du_phong = duan["ngan_sach"], duan.get("du_phong", 0.10)
-    gia = doc_bang_gia()
+    gia = doc_bang_gia(thu_muc.resolve().parent / "bang-gia.csv")
 
     thieu = [it["ma"] for it in items if it["ma"] not in gia]
     if thieu:
