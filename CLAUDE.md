@@ -10,7 +10,9 @@ Quy trình chính nằm ở skill `nghien-cuu-nganh`; các chuyên viên nằm �
 - Thời gian nắm giữ: tối đa 12 tháng (muốn hoàn vốn hoặc thoái vốn/sang nhượng trong vòng 12 tháng)
 - Mức lỗ tối đa chịu được: 200 triệu VND (20% vốn)
 - Mức tham gia vận hành: toàn thời gian
-- Kinh nghiệm / lợi thế sẵn có: Không cung cấp
+- Kinh nghiệm / lợi thế sẵn có:
+  - **Có mặt bằng sẵn của gia đình** tại khu vực kinh doanh → không tốn tiền thuê, không có hợp đồng thuê ràng buộc (chi tiết diện tích, mặt tiền, vị trí: chưa cung cấp).
+  - Nhiều mối quan hệ; cần gợi ý cụ thể từng ngành để người dùng đối chiếu xem có quen người trong ngành không.
 - Khu vực địa lý: phường Hiệp Hòa, Bắc Giang (sau sắp xếp đơn vị hành chính 7/2025 thuộc tỉnh Bắc Ninh; trước đây là khu vực huyện Hiệp Hòa, Bắc Giang)
 - Ngành quan tâm / ngành loại trừ: Không cung cấp
 
