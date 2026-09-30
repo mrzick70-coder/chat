@@ -32,8 +32,8 @@ Tạo file **`.claude/settings.json`** trong repo muốn dùng, dán nội dung 
   "extraKnownMarketplaces": {
     "photobooth-tools": {
       "source": {
-        "source": "github",
-        "repo": "mrzick70-coder/chat",
+        "source": "git",
+        "url": "https://github.com/mrzick70-coder/chat.git",
         "ref": "claude/laughing-albattani-6iszfl"
       }
     }
@@ -50,7 +50,7 @@ Lần sau mở Claude Code trong repo đó (trên máy hay trên web đều đư
 
 **Cách khác, cài cho cá nhân trên máy** (mọi repo đều dùng được, không cần file settings):
 ```
-/plugin marketplace add mrzick70-coder/chat
+/plugin marketplace add https://github.com/mrzick70-coder/chat.git#claude/laughing-albattani-6iszfl
 /plugin install photobooth@photobooth-tools
 ```
 
