@@ -1,0 +1,5 @@
+Đặt vào thư mục này:
+- Khung ảnh (file PNG, phần để ghép ảnh là trong suốt)
+- Logo
+- Âm thanh (nếu muốn), ví dụ tiếng bíp đếm ngược, tiếng chụp
+Rồi nói với Claude: "Tôi đã để file ... trong thư mục hinh, hãy dùng nó cho ...".

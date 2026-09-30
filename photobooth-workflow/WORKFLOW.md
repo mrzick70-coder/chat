@@ -5,6 +5,8 @@ photobooth, với Claude Code làm "lập trình viên chính" còn bạn giữ 
 owner + reviewer. Thư mục [`starter/`](./starter) chứa sẵn `CLAUDE.md`, slash command,
 hook và template spec để bạn chép vào dự án mới.
 
+> Không biết lập trình? Xem bản dành cho người mới: [`HUONG-DAN-NGUOI-MOI.md`](./HUONG-DAN-NGUOI-MOI.md).
+
 ---
 
 ## 0. Tổng quan
