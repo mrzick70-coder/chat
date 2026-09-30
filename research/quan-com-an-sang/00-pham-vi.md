@@ -14,7 +14,7 @@ _Ngày bắt đầu: 2026-09-30 · Nguồn đầu vào: `research/sang-loc/2026-
   - Plus Code 7XV5+W4R, phố Hoa, xóm Đông, xã Xuân Cẩm, tỉnh Bắc Ninh (trước 7/2025: huyện Hiệp Hòa, Bắc Giang); tọa độ ~21,2948; 105,9578. Sàng lọc xác định: mặt đường tỉnh 295 (ĐT295), thôn Châu Minh.
   - ~80 m², mặt tiền đường lớn, gần trường học và chợ.
   - Khu công nghiệp: chủ nhà ban đầu nói 3–4 km nhưng xác nhận có thể nhầm và dùng số đo theo tọa độ (2026-09-30): **KCN Hòa Phú (đang hoạt động, >9.000 lao động) cách ~6,4 km đường chim bay**; cụm Yên Phong (Samsung) ~8–9 km; **KCN Châu Minh – Bắc Lý – Hương Lâm** giáp ĐT295 phía tây, đã duyệt nhưng **chưa vận hành** (cơ hội trung hạn, không tính vào 12 tháng).
-  - Giá cho thuê ước tính 15 triệu/tháng (chưa kiểm chứng); mốc thận trọng ~8 triệu/tháng.
+  - Người thuê trước (chủ nhà xác nhận 2026-09-30): **quán cháo dinh dưỡng trẻ em (ngành ăn uống)**, trả **15 triệu/tháng** → mốc cho thuê 15 triệu/tháng đã có giao dịch thật; mặt bằng từng vận hành một cơ sở ăn uống. Chưa rõ vì sao họ dừng, và chưa rõ còn lại hạ tầng bếp (điện, nước, thoát nước, hút mùi) hay không.
   - **Xác nhận của chủ nhà (2026-09-30):** đoạn ĐT295 trước nhà **đã thi công xong**, đường sạch sẽ, rộng rãi; đất là **đất thổ cư (đất ở)**.
 
 ## Ngành và phạm vi

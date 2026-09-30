@@ -15,7 +15,7 @@ Quy trình chính nằm ở skill `nghien-cuu-nganh`; các chuyên viên nằm �
     - Địa chỉ: Plus Code 7XV5+W4R, phố Hoa, xóm Đông, Xuân Cẩm, Bắc Ninh (trước 7/2025: xã Xuân Cẩm, huyện Hiệp Hòa, Bắc Giang); toạ độ giải mã xấp xỉ 21.2948, 105.9578.
     - Khoảng 80 m², mặt tiền đường lớn (ĐT295, đoạn trước nhà đã làm xong, rộng rãi); đất thổ cư; KCN Hòa Phú cách ~6,4 km đường chim bay (chủ nhà ban đầu ước 3–4 km, đã xác nhận có thể nhầm); KCN Châu Minh – Bắc Lý – Hương Lâm ở gần, đã duyệt nhưng chưa vận hành; gần trường học và chợ.
     - Giá cho thuê ước tính khoảng **15 triệu/tháng**, mặt bằng hiện **để trống lâu (đang tạo ra 0 đồng)**. "Cho thuê mặt bằng" là phương án đối chứng, tính ở 2 mức: 15 triệu/tháng và mức thận trọng thấp hơn.
-    - **Lý do trống (chủ nhà xác nhận 2026-09-30):** mặt bằng **đã từng được cho thuê**; gia đình không còn nhu cầu cho thuê nên để trống. → Trống là do lựa chọn của chủ, **không phải tín hiệu thiếu người thuê/khách yếu**. Chưa biết: người thuê trước kinh doanh gì, giá thuê cũ, vì sao dừng.
+    - **Lý do trống (chủ nhà xác nhận 2026-09-30):** mặt bằng **đã từng được cho thuê**; gia đình không còn nhu cầu cho thuê nên để trống. → Trống là do lựa chọn của chủ, **không phải tín hiệu thiếu người thuê/khách yếu**. Người thuê trước: **quán cháo dinh dưỡng trẻ em**, trả **15 triệu/tháng** (→ mức 15 triệu đã được kiểm chứng bằng giao dịch thật); chưa rõ vì sao họ dừng.
   - Nhiều mối quan hệ; cần gợi ý cụ thể từng ngành để người dùng đối chiếu xem có quen người trong ngành không.
 - Khu vực địa lý: xã Xuân Cẩm, tỉnh Bắc Ninh (trước 7/2025: xã Xuân Cẩm, huyện Hiệp Hòa, Bắc Giang) — xem địa chỉ mặt bằng bên dưới
 - Ngành quan tâm / ngành loại trừ: Không cung cấp
