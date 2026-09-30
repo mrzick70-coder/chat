@@ -13,7 +13,7 @@ Quy trình chính nằm ở skill `nghien-cuu-nganh`; các chuyên viên nằm �
 - Kinh nghiệm / lợi thế sẵn có:
   - **Có mặt bằng sẵn của gia đình** → không tốn tiền thuê, không có hợp đồng thuê ràng buộc.
     - Địa chỉ: Plus Code 7XV5+W4R, phố Hoa, xóm Đông, Xuân Cẩm, Bắc Ninh (trước 7/2025: xã Xuân Cẩm, huyện Hiệp Hòa, Bắc Giang); toạ độ giải mã xấp xỉ 21.2948, 105.9578.
-    - Khoảng 80 m², mặt tiền đường lớn; cách khu công nghiệp lớn 3–4 km; gần trường học và chợ.
+    - Khoảng 80 m², mặt tiền đường lớn (ĐT295, đoạn trước nhà đã làm xong, rộng rãi); đất thổ cư; cách khu công nghiệp lớn 3–4 km; gần trường học và chợ.
     - Giá cho thuê ước tính khoảng **15 triệu/tháng**, nhưng mặt bằng **đã để trống lâu, chưa từng cho thuê hay sử dụng** → mức 15 triệu chưa được kiểm chứng; chi phí cơ hội thực tế thấp hơn (đang tạo ra 0 đồng). "Cho thuê mặt bằng" vẫn là phương án đối chứng, nhưng tính ở 2 mức: 15 triệu/tháng (nếu thuê được) và mức thấp hơn/khả năng để trống tiếp.
     - Cần làm rõ: mặt bằng trống vì chưa từng rao cho thuê, hay đã rao mà không ai thuê (tín hiệu nhu cầu mặt bằng kinh doanh ở vị trí này yếu)?
   - Nhiều mối quan hệ; cần gợi ý cụ thể từng ngành để người dùng đối chiếu xem có quen người trong ngành không.

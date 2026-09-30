@@ -15,6 +15,7 @@ _Ngày bắt đầu: 2026-09-30 · Nguồn đầu vào: `research/sang-loc/2026-
   - ~80 m², mặt tiền đường lớn, gần trường học và chợ.
   - Chủ nhà nói cách "khu công nghiệp lớn" 3–4 km; sàng lọc đo KCN Hòa Phú cách ~6,4 km đường chim bay, cụm Yên Phong (Samsung) ~8–9 km. **Chưa thống nhất, cần xác minh.**
   - Giá cho thuê ước tính 15 triệu/tháng (chưa kiểm chứng); mốc thận trọng ~8 triệu/tháng.
+  - **Xác nhận của chủ nhà (2026-09-30):** đoạn ĐT295 trước nhà **đã thi công xong**, đường sạch sẽ, rộng rãi; đất là **đất thổ cư (đất ở)**.
 
 ## Ngành và phạm vi
 
