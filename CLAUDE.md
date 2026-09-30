@@ -11,9 +11,12 @@ Quy trình chính nằm ở skill `nghien-cuu-nganh`; các chuyên viên nằm �
 - Mức lỗ tối đa chịu được: 200 triệu VND (20% vốn)
 - Mức tham gia vận hành: toàn thời gian
 - Kinh nghiệm / lợi thế sẵn có:
-  - **Có mặt bằng sẵn của gia đình** tại khu vực kinh doanh → không tốn tiền thuê, không có hợp đồng thuê ràng buộc (chi tiết diện tích, mặt tiền, vị trí: chưa cung cấp).
+  - **Có mặt bằng sẵn của gia đình** → không tốn tiền thuê, không có hợp đồng thuê ràng buộc.
+    - Địa chỉ: Plus Code 7XV5+W4R, phố Hoa, xóm Đông, Xuân Cẩm, Bắc Ninh (trước 7/2025: xã Xuân Cẩm, huyện Hiệp Hòa, Bắc Giang); toạ độ giải mã xấp xỉ 21.2948, 105.9578.
+    - Khoảng 80 m², mặt tiền đường lớn; cách khu công nghiệp lớn 3–4 km; gần trường học và chợ.
+    - Chi phí cơ hội: cho thuê được khoảng **15 triệu/tháng (180 triệu/năm)** → phương án kinh doanh phải có lợi nhuận vượt mức này (sau khi đã tính công sức của chủ) mới đáng làm. "Cho thuê mặt bằng" là phương án đối chứng.
   - Nhiều mối quan hệ; cần gợi ý cụ thể từng ngành để người dùng đối chiếu xem có quen người trong ngành không.
-- Khu vực địa lý: phường Hiệp Hòa, Bắc Giang (sau sắp xếp đơn vị hành chính 7/2025 thuộc tỉnh Bắc Ninh; trước đây là khu vực huyện Hiệp Hòa, Bắc Giang)
+- Khu vực địa lý: xã Xuân Cẩm, tỉnh Bắc Ninh (trước 7/2025: xã Xuân Cẩm, huyện Hiệp Hòa, Bắc Giang) — xem địa chỉ mặt bằng bên dưới
 - Ngành quan tâm / ngành loại trừ: Không cung cấp
 
 > Lưu ý hồ sơ: thời hạn 12 tháng + mức lỗ tối đa 20% là ràng buộc rất chặt. Ưu tiên mô hình vốn đầu tư cố định thấp,
