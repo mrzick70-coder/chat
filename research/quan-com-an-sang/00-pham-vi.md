@@ -10,7 +10,7 @@ _Ngày bắt đầu: 2026-09-30 · Nguồn đầu vào: `research/sang-loc/2026-
 - Mức lỗ tối đa: 200 triệu VND
 - Vận hành: toàn thời gian, tự quản lý hằng ngày
 - Kinh nghiệm: không có kinh nghiệm ngành ăn uống (giả định); nhiều mối quan hệ ở địa phương
-- Mặt bằng: của gia đình, **không tốn tiền thuê**, đã để trống lâu, chưa từng sử dụng
+- Mặt bằng: của gia đình, **không tốn tiền thuê**, đã để trống lâu; **trước đây từng cho thuê**, gia đình không còn nhu cầu cho thuê nên để trống (chủ nhà xác nhận 2026-09-30) — việc trống không phải tín hiệu cầu yếu
   - Plus Code 7XV5+W4R, phố Hoa, xóm Đông, xã Xuân Cẩm, tỉnh Bắc Ninh (trước 7/2025: huyện Hiệp Hòa, Bắc Giang); tọa độ ~21,2948; 105,9578. Sàng lọc xác định: mặt đường tỉnh 295 (ĐT295), thôn Châu Minh.
   - ~80 m², mặt tiền đường lớn, gần trường học và chợ.
   - Chủ nhà nói cách "khu công nghiệp lớn" 3–4 km; sàng lọc đo KCN Hòa Phú cách ~6,4 km đường chim bay, cụm Yên Phong (Samsung) ~8–9 km. **Chưa thống nhất, cần xác minh.**
